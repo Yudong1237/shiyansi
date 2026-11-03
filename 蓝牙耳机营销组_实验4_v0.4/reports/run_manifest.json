@@ -1,0 +1,22 @@
+{
+    "run_id":  "exp4-20261029T012936Z",
+    "started_at":  "2026-10-29T01:29:34Z",
+    "finished_at":  "2026-10-29T01:29:36Z",
+    "source":  "local clean_data.csv",
+    "source_path":  "C:\\Users\\HP\\Desktop\\蓝牙耳机营销组_实验3_v0.3\\data\\processed\\clean_data.csv",
+    "collection_method":  "synthetic deterministic generation from user-provided local dataset",
+    "requested_count":  640,
+    "record_count":  640,
+    "duplicate_count":  0,
+    "error_count":  0,
+    "date_range":  {
+                       "min":  "2026-01-10",
+                       "max":  "2026-10-11"
+                   },
+    "language":  "zh",
+    "limitations":  [
+                        "模拟评论，不代表真实消费者总体",
+                        "规则编码需要人工复核",
+                        "商品字段没有真实评论上下文"
+                    ]
+}
